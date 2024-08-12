@@ -1,9 +1,9 @@
 
 <h1 align="center">Hi 👋, I'm Bastin</h1>
-<h3 align="center">A passionate Developer and Data Enthusiast</h3>
+<h3 align="center">Aspiring Software Engineer |  Artificial Intelligence and Data Science Student</h3>
 
 - 🔭 I’m currently working on **Web Developement and Development Projects**
-- 🌱 I’m currently learning **Advanced Machine Learning and Data Engineering**
+- 🌱 I’m currently learning **SQL Programming and Data Engineering**
 - 👯 I’m looking to collaborate on **Data Science and Development Projects**
 - 💬 Ask me about **Python, pandas, scikit-learn, TensorFlow, SQL, and more**
 - 📫 How to reach me **bastin2005.ai@gmail.com**
